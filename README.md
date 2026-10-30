@@ -3,8 +3,7 @@
 I'm an Information Science student at R.V. College of Engineering, Bengaluru.
 
 - Interested in software development, backend engineering, and machine learning.
-- Research Intern at Samsung PRISM.
-- Co-author of a research paper published in IEEE Xplore.
+
 
 ### Languages
 C++, C, Python, java, JavaScript,
